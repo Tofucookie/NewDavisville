@@ -1,0 +1,46 @@
+-----------------------
+Time Table Trip File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 05/03/2018
+
+[trip]
+
+42A Cummer EB
+42A
+
+.........................
+        Stations
+.........................
+
+[station_typ2]
+880
+
+[station_typ2]
+881
+
+[station_typ2]
+883
+
+[station_typ2]
+885
+
+[station_typ2]
+908
+
+[station_typ2]
+912
+
+
+.........................
+        Profiles
+.........................
+
+[profile]
+midday
+4.000
+
+[profile_man_arr_time]
+0
+0.000

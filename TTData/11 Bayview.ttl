@@ -1,0 +1,2975 @@
+-----------------------
+Time Table Line File
+-----------------------
+
+Created with Omsi Version 2.3.004
+Date: 05/03/2018
+
+[userallowed]
+
+[priority]
+1
+------------------------------------
+
+[newtour]
+Run 1 (Temporary)
+Wilson Garage
+1023
+
+------------------------------------
+
+  Dep.: 5:31:0
+[addtrip]
+11B Bayview - Bayview
+0
+331.000
+
+  Dep.: 5:39:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+339.500
+
+  Dep.: 5:49:0
+[addtrip]
+11B Bayview - Bayview
+0
+349.000
+
+  Dep.: 5:57:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+357.500
+
+  Dep.: 6:7:0
+[addtrip]
+11B Bayview - Bayview
+0
+367.000
+
+  Dep.: 6:15:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+375.500
+
+  Dep.: 6:25:0
+[addtrip]
+11B Bayview - Bayview
+0
+385.000
+
+  Dep.: 6:33:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+393.500
+
+  Dep.: 6:43:0
+[addtrip]
+11B Bayview - Bayview
+0
+403.000
+
+  Dep.: 6:51:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+411.500
+
+  Dep.: 7:1:0
+[addtrip]
+11B Bayview - Bayview
+0
+421.000
+
+  Dep.: 7:9:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+429.500
+
+  Dep.: 7:19:0
+[addtrip]
+11B Bayview - Bayview
+0
+439.000
+
+  Dep.: 7:27:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+447.500
+
+  Dep.: 7:37:0
+[addtrip]
+11B Bayview - Bayview
+0
+457.000
+
+  Dep.: 7:45:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+465.500
+
+  Dep.: 7:55:0
+[addtrip]
+11B Bayview - Bayview
+0
+475.000
+
+  Dep.: 8:3:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+483.500
+
+  Dep.: 8:13:0
+[addtrip]
+11B Bayview - Bayview
+0
+493.000
+
+  Dep.: 8:21:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+501.500
+
+  Dep.: 8:31:0
+[addtrip]
+11B Bayview - Bayview
+0
+511.000
+
+  Dep.: 8:39:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+519.500
+
+  Dep.: 8:49:0
+[addtrip]
+11B Bayview - Bayview
+0
+529.000
+
+  Dep.: 8:57:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+537.500
+
+  Dep.: 9:7:0
+[addtrip]
+11B Bayview - Bayview
+0
+547.000
+
+  Dep.: 9:15:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+555.500
+
+  Dep.: 9:25:0
+[addtrip]
+11B Bayview - Bayview
+0
+565.000
+
+  Dep.: 9:33:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+573.500
+
+  Dep.: 9:43:0
+[addtrip]
+11B Bayview - Bayview
+0
+583.000
+
+  Dep.: 9:51:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+591.500
+
+  Dep.: 10:1:0
+[addtrip]
+11B Bayview - Bayview
+0
+601.000
+
+  Dep.: 10:9:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+609.500
+
+  Dep.: 10:19:0
+[addtrip]
+11B Bayview - Bayview
+0
+619.000
+
+  Dep.: 10:27:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+627.500
+
+  Dep.: 10:37:0
+[addtrip]
+11B Bayview - Bayview
+0
+637.000
+
+  Dep.: 10:45:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+645.500
+
+  Dep.: 10:55:0
+[addtrip]
+11B Bayview - Bayview
+0
+655.000
+
+  Dep.: 11:3:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+663.500
+
+  Dep.: 11:13:0
+[addtrip]
+11B Bayview - Bayview
+0
+673.000
+
+  Dep.: 11:21:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+681.500
+
+  Dep.: 11:31:0
+[addtrip]
+11B Bayview - Bayview
+0
+691.000
+
+  Dep.: 11:39:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+699.500
+
+  Dep.: 11:49:0
+[addtrip]
+11B Bayview - Bayview
+0
+709.000
+
+  Dep.: 11:57:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+717.500
+
+  Dep.: 12:7:0
+[addtrip]
+11B Bayview - Bayview
+0
+727.000
+
+  Dep.: 12:15:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+735.500
+
+  Dep.: 12:25:0
+[addtrip]
+11B Bayview - Bayview
+0
+745.000
+
+  Dep.: 12:33:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+753.500
+
+  Dep.: 12:43:0
+[addtrip]
+11B Bayview - Bayview
+0
+763.000
+
+  Dep.: 12:51:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+771.500
+
+  Dep.: 13:1:0
+[addtrip]
+11B Bayview - Bayview
+0
+781.000
+
+  Dep.: 13:9:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+789.500
+
+  Dep.: 13:19:0
+[addtrip]
+11B Bayview - Bayview
+0
+799.000
+
+  Dep.: 13:27:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+807.500
+
+  Dep.: 13:37:0
+[addtrip]
+11B Bayview - Bayview
+0
+817.000
+
+  Dep.: 13:45:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+825.500
+
+  Dep.: 13:55:0
+[addtrip]
+11B Bayview - Bayview
+0
+835.000
+
+  Dep.: 14:3:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+843.500
+
+  Dep.: 14:13:0
+[addtrip]
+11B Bayview - Bayview
+0
+853.000
+
+  Dep.: 14:21:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+861.500
+
+  Dep.: 14:31:0
+[addtrip]
+11B Bayview - Bayview
+0
+871.000
+
+  Dep.: 14:39:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+879.500
+
+  Dep.: 14:49:0
+[addtrip]
+11B Bayview - Bayview
+0
+889.000
+
+  Dep.: 14:57:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+897.500
+
+  Dep.: 15:7:0
+[addtrip]
+11B Bayview - Bayview
+0
+907.000
+
+  Dep.: 15:15:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+915.500
+
+  Dep.: 15:25:0
+[addtrip]
+11B Bayview - Bayview
+0
+925.000
+
+  Dep.: 15:33:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+933.500
+
+  Dep.: 15:43:0
+[addtrip]
+11B Bayview - Bayview
+0
+943.000
+
+  Dep.: 15:51:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+951.500
+
+  Dep.: 16:1:0
+[addtrip]
+11B Bayview - Bayview
+0
+961.000
+
+  Dep.: 16:9:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+969.500
+
+  Dep.: 16:19:0
+[addtrip]
+11B Bayview - Bayview
+0
+979.000
+
+  Dep.: 16:27:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+987.500
+
+  Dep.: 16:37:0
+[addtrip]
+11B Bayview - Bayview
+0
+997.000
+
+  Dep.: 16:45:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1005.500
+
+  Dep.: 16:55:0
+[addtrip]
+11B Bayview - Bayview
+0
+1015.000
+
+  Dep.: 17:3:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1023.500
+
+  Dep.: 17:13:0
+[addtrip]
+11B Bayview - Bayview
+0
+1033.000
+
+  Dep.: 17:21:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1041.500
+
+  Dep.: 17:31:0
+[addtrip]
+11B Bayview - Bayview
+0
+1051.000
+
+  Dep.: 17:39:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1059.500
+
+  Dep.: 17:49:0
+[addtrip]
+11B Bayview - Bayview
+0
+1069.000
+
+  Dep.: 17:57:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1077.500
+
+  Dep.: 18:7:0
+[addtrip]
+11B Bayview - Bayview
+0
+1087.000
+
+  Dep.: 18:15:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1095.500
+
+  Dep.: 18:25:0
+[addtrip]
+11B Bayview - Bayview
+0
+1105.000
+
+  Dep.: 18:33:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1113.500
+
+  Dep.: 18:43:0
+[addtrip]
+11B Bayview - Bayview
+0
+1123.000
+
+  Dep.: 18:51:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1131.500
+
+  Dep.: 19:1:0
+[addtrip]
+11B Bayview - Bayview
+0
+1141.000
+
+  Dep.: 19:9:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1149.500
+
+  Dep.: 19:19:0
+[addtrip]
+11B Bayview - Bayview
+0
+1159.000
+
+  Dep.: 19:27:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1167.500
+
+  Dep.: 19:37:0
+[addtrip]
+11B Bayview - Bayview
+0
+1177.000
+
+  Dep.: 19:45:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1185.500
+
+  Dep.: 19:55:0
+[addtrip]
+11B Bayview - Bayview
+0
+1195.000
+
+  Dep.: 20:3:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1203.500
+
+  Dep.: 20:13:0
+[addtrip]
+11B Bayview - Bayview
+0
+1213.000
+
+  Dep.: 20:21:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1221.500
+
+  Dep.: 20:31:0
+[addtrip]
+11B Bayview - Bayview
+0
+1231.000
+
+  Dep.: 20:39:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1239.500
+
+  Dep.: 20:49:0
+[addtrip]
+11B Bayview - Bayview
+0
+1249.000
+
+  Dep.: 20:57:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1257.500
+
+  Dep.: 21:7:0
+[addtrip]
+11B Bayview - Bayview
+0
+1267.000
+
+  Dep.: 21:15:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1275.500
+
+  Dep.: 21:25:0
+[addtrip]
+11B Bayview - Bayview
+0
+1285.000
+
+  Dep.: 21:33:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1293.500
+
+  Dep.: 21:43:0
+[addtrip]
+11B Bayview - Bayview
+0
+1303.000
+
+  Dep.: 21:51:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1311.500
+
+  Dep.: 22:1:0
+[addtrip]
+11B Bayview - Bayview
+0
+1321.000
+
+  Dep.: 22:9:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1329.500
+
+  Dep.: 22:19:0
+[addtrip]
+11B Bayview - Bayview
+0
+1339.000
+
+  Dep.: 22:27:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1347.500
+
+  Dep.: 22:37:0
+[addtrip]
+11B Bayview - Bayview
+0
+1357.000
+
+  Dep.: 22:45:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1365.500
+
+  Dep.: 22:55:0
+[addtrip]
+11B Bayview - Bayview
+0
+1375.000
+
+  Dep.: 23:3:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1383.500
+
+  Dep.: 23:15:0
+[addtrip]
+11B Bayview - Bayview
+0
+1395.000
+
+  Dep.: 23:24:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1404.500
+
+  Dep.: 23:35:0
+[addtrip]
+11B Bayview - Bayview
+0
+1415.000
+
+  Dep.: 23:44:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1424.500
+
+  Dep.: 23:55:0
+[addtrip]
+11B Bayview - Bayview
+0
+1435.000
+
+  Dep.: 24:4:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1444.500
+
+  Dep.: 24:15:0
+[addtrip]
+11B Bayview - Bayview
+0
+1455.000
+
+  Dep.: 24:24:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1464.500
+
+  Dep.: 24:35:0
+[addtrip]
+11B Bayview - Bayview
+0
+1475.000
+
+  Dep.: 24:50:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1490.000
+
+  Dep.: 25:5:0
+[addtrip]
+11B Bayview - Bayview
+0
+1505.000
+
+  Dep.: 25:20:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1520.000
+
+  Dep.: 25:35:0
+[addtrip]
+11B Bayview - Bayview
+0
+1535.000
+
+------------------------------------
+
+[newtour]
+Run 2 (Temporary)
+Wilson Garage
+1023
+
+------------------------------------
+
+  Dep.: 5:35:30
+[addtrip]
+11B Bayview - Bayview
+0
+335.500
+
+  Dep.: 5:44:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+344.000
+
+  Dep.: 5:53:30
+[addtrip]
+11B Bayview - Bayview
+0
+353.500
+
+  Dep.: 6:2:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+362.000
+
+  Dep.: 6:11:30
+[addtrip]
+11B Bayview - Bayview
+0
+371.500
+
+  Dep.: 6:20:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+380.000
+
+  Dep.: 6:29:30
+[addtrip]
+11B Bayview - Bayview
+0
+389.500
+
+  Dep.: 6:38:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+398.000
+
+  Dep.: 6:47:30
+[addtrip]
+11B Bayview - Bayview
+0
+407.500
+
+  Dep.: 6:56:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+416.000
+
+  Dep.: 7:5:30
+[addtrip]
+11B Bayview - Bayview
+0
+425.500
+
+  Dep.: 7:14:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+434.000
+
+  Dep.: 7:23:30
+[addtrip]
+11B Bayview - Bayview
+0
+443.500
+
+  Dep.: 7:32:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+452.000
+
+  Dep.: 7:41:30
+[addtrip]
+11B Bayview - Bayview
+0
+461.500
+
+  Dep.: 7:50:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+470.000
+
+  Dep.: 7:59:30
+[addtrip]
+11B Bayview - Bayview
+0
+479.500
+
+  Dep.: 8:8:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+488.000
+
+  Dep.: 8:17:30
+[addtrip]
+11B Bayview - Bayview
+0
+497.500
+
+  Dep.: 8:26:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+506.000
+
+  Dep.: 8:35:30
+[addtrip]
+11B Bayview - Bayview
+0
+515.500
+
+  Dep.: 8:44:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+524.000
+
+  Dep.: 8:53:30
+[addtrip]
+11B Bayview - Bayview
+0
+533.500
+
+  Dep.: 9:2:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+542.000
+
+  Dep.: 9:11:30
+[addtrip]
+11B Bayview - Bayview
+0
+551.500
+
+  Dep.: 9:20:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+560.000
+
+  Dep.: 9:29:30
+[addtrip]
+11B Bayview - Bayview
+0
+569.500
+
+  Dep.: 9:38:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+578.000
+
+  Dep.: 9:47:30
+[addtrip]
+11B Bayview - Bayview
+0
+587.500
+
+  Dep.: 9:56:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+596.000
+
+  Dep.: 10:5:30
+[addtrip]
+11B Bayview - Bayview
+0
+605.500
+
+  Dep.: 10:14:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+614.000
+
+  Dep.: 10:23:30
+[addtrip]
+11B Bayview - Bayview
+0
+623.500
+
+  Dep.: 10:32:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+632.000
+
+  Dep.: 10:41:30
+[addtrip]
+11B Bayview - Bayview
+0
+641.500
+
+  Dep.: 10:50:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+650.000
+
+  Dep.: 10:59:30
+[addtrip]
+11B Bayview - Bayview
+0
+659.500
+
+  Dep.: 11:8:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+668.000
+
+  Dep.: 11:17:30
+[addtrip]
+11B Bayview - Bayview
+0
+677.500
+
+  Dep.: 11:26:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+686.000
+
+  Dep.: 11:35:30
+[addtrip]
+11B Bayview - Bayview
+0
+695.500
+
+  Dep.: 11:44:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+704.000
+
+  Dep.: 11:53:30
+[addtrip]
+11B Bayview - Bayview
+0
+713.500
+
+  Dep.: 12:2:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+722.000
+
+  Dep.: 12:11:30
+[addtrip]
+11B Bayview - Bayview
+0
+731.500
+
+  Dep.: 12:20:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+740.000
+
+  Dep.: 12:29:30
+[addtrip]
+11B Bayview - Bayview
+0
+749.500
+
+  Dep.: 12:38:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+758.000
+
+  Dep.: 12:47:30
+[addtrip]
+11B Bayview - Bayview
+0
+767.500
+
+  Dep.: 12:56:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+776.000
+
+  Dep.: 13:5:30
+[addtrip]
+11B Bayview - Bayview
+0
+785.500
+
+  Dep.: 13:14:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+794.000
+
+  Dep.: 13:23:30
+[addtrip]
+11B Bayview - Bayview
+0
+803.500
+
+  Dep.: 13:32:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+812.000
+
+  Dep.: 13:41:30
+[addtrip]
+11B Bayview - Bayview
+0
+821.500
+
+  Dep.: 13:50:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+830.000
+
+  Dep.: 13:59:30
+[addtrip]
+11B Bayview - Bayview
+0
+839.500
+
+  Dep.: 14:8:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+848.000
+
+  Dep.: 14:17:30
+[addtrip]
+11B Bayview - Bayview
+0
+857.500
+
+  Dep.: 14:26:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+866.000
+
+  Dep.: 14:35:30
+[addtrip]
+11B Bayview - Bayview
+0
+875.500
+
+  Dep.: 14:44:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+884.000
+
+  Dep.: 14:53:30
+[addtrip]
+11B Bayview - Bayview
+0
+893.500
+
+  Dep.: 15:2:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+902.000
+
+  Dep.: 15:11:30
+[addtrip]
+11B Bayview - Bayview
+0
+911.500
+
+  Dep.: 15:20:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+920.000
+
+  Dep.: 15:29:30
+[addtrip]
+11B Bayview - Bayview
+0
+929.500
+
+  Dep.: 15:38:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+938.000
+
+  Dep.: 15:47:30
+[addtrip]
+11B Bayview - Bayview
+0
+947.500
+
+  Dep.: 15:56:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+956.000
+
+  Dep.: 16:5:30
+[addtrip]
+11B Bayview - Bayview
+0
+965.500
+
+  Dep.: 16:14:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+974.000
+
+  Dep.: 16:23:30
+[addtrip]
+11B Bayview - Bayview
+0
+983.500
+
+  Dep.: 16:32:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+992.000
+
+  Dep.: 16:41:30
+[addtrip]
+11B Bayview - Bayview
+0
+1001.500
+
+  Dep.: 16:50:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1010.000
+
+  Dep.: 16:59:30
+[addtrip]
+11B Bayview - Bayview
+0
+1019.500
+
+  Dep.: 17:8:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1028.000
+
+  Dep.: 17:17:30
+[addtrip]
+11B Bayview - Bayview
+0
+1037.500
+
+  Dep.: 17:26:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1046.000
+
+  Dep.: 17:35:30
+[addtrip]
+11B Bayview - Bayview
+0
+1055.500
+
+  Dep.: 17:44:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1064.000
+
+  Dep.: 17:53:30
+[addtrip]
+11B Bayview - Bayview
+0
+1073.500
+
+  Dep.: 18:2:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1082.000
+
+  Dep.: 18:11:30
+[addtrip]
+11B Bayview - Bayview
+0
+1091.500
+
+  Dep.: 18:20:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1100.000
+
+  Dep.: 18:29:30
+[addtrip]
+11B Bayview - Bayview
+0
+1109.500
+
+  Dep.: 18:38:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1118.000
+
+  Dep.: 18:47:30
+[addtrip]
+11B Bayview - Bayview
+0
+1127.500
+
+  Dep.: 18:56:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1136.000
+
+  Dep.: 19:5:30
+[addtrip]
+11B Bayview - Bayview
+0
+1145.500
+
+  Dep.: 19:14:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1154.000
+
+  Dep.: 19:23:30
+[addtrip]
+11B Bayview - Bayview
+0
+1163.500
+
+  Dep.: 19:32:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1172.000
+
+  Dep.: 19:41:30
+[addtrip]
+11B Bayview - Bayview
+0
+1181.500
+
+  Dep.: 19:50:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1190.000
+
+  Dep.: 19:59:30
+[addtrip]
+11B Bayview - Bayview
+0
+1199.500
+
+  Dep.: 20:8:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1208.000
+
+  Dep.: 20:17:30
+[addtrip]
+11B Bayview - Bayview
+0
+1217.500
+
+  Dep.: 20:26:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1226.000
+
+  Dep.: 20:35:30
+[addtrip]
+11B Bayview - Bayview
+0
+1235.500
+
+  Dep.: 20:44:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1244.000
+
+  Dep.: 20:53:30
+[addtrip]
+11B Bayview - Bayview
+0
+1253.500
+
+  Dep.: 21:2:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1262.000
+
+  Dep.: 21:11:30
+[addtrip]
+11B Bayview - Bayview
+0
+1271.500
+
+  Dep.: 21:20:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1280.000
+
+  Dep.: 21:29:30
+[addtrip]
+11B Bayview - Bayview
+0
+1289.500
+
+  Dep.: 21:38:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1298.000
+
+  Dep.: 21:47:30
+[addtrip]
+11B Bayview - Bayview
+0
+1307.500
+
+  Dep.: 21:56:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1316.000
+
+  Dep.: 22:5:30
+[addtrip]
+11B Bayview - Bayview
+0
+1325.500
+
+  Dep.: 22:14:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1334.000
+
+  Dep.: 22:23:30
+[addtrip]
+11B Bayview - Bayview
+0
+1343.500
+
+  Dep.: 22:32:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1352.000
+
+  Dep.: 22:41:30
+[addtrip]
+11B Bayview - Bayview
+0
+1361.500
+
+  Dep.: 22:50:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1370.000
+
+  Dep.: 22:59:30
+[addtrip]
+11B Bayview - Bayview
+0
+1379.500
+
+------------------------------------
+
+[newtour]
+Run 3 (Temporary)
+Wilson Garage
+1023
+
+------------------------------------
+
+  Dep.: 5:40:0
+[addtrip]
+11B Bayview - Bayview
+0
+340.000
+
+  Dep.: 5:48:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+348.500
+
+  Dep.: 5:58:0
+[addtrip]
+11B Bayview - Bayview
+0
+358.000
+
+  Dep.: 6:6:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+366.500
+
+  Dep.: 6:16:0
+[addtrip]
+11B Bayview - Bayview
+0
+376.000
+
+  Dep.: 6:24:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+384.500
+
+  Dep.: 6:34:0
+[addtrip]
+11B Bayview - Bayview
+0
+394.000
+
+  Dep.: 6:42:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+402.500
+
+  Dep.: 6:52:0
+[addtrip]
+11B Bayview - Bayview
+0
+412.000
+
+  Dep.: 7:0:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+420.500
+
+  Dep.: 7:10:0
+[addtrip]
+11B Bayview - Bayview
+0
+430.000
+
+  Dep.: 7:18:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+438.500
+
+  Dep.: 7:28:0
+[addtrip]
+11B Bayview - Bayview
+0
+448.000
+
+  Dep.: 7:36:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+456.500
+
+  Dep.: 7:46:0
+[addtrip]
+11B Bayview - Bayview
+0
+466.000
+
+  Dep.: 7:54:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+474.500
+
+  Dep.: 8:4:0
+[addtrip]
+11B Bayview - Bayview
+0
+484.000
+
+  Dep.: 8:12:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+492.500
+
+  Dep.: 8:22:0
+[addtrip]
+11B Bayview - Bayview
+0
+502.000
+
+  Dep.: 8:30:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+510.500
+
+  Dep.: 8:40:0
+[addtrip]
+11B Bayview - Bayview
+0
+520.000
+
+  Dep.: 8:48:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+528.500
+
+  Dep.: 8:58:0
+[addtrip]
+11B Bayview - Bayview
+0
+538.000
+
+  Dep.: 9:6:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+546.500
+
+  Dep.: 9:16:0
+[addtrip]
+11B Bayview - Bayview
+0
+556.000
+
+  Dep.: 9:24:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+564.500
+
+  Dep.: 9:34:0
+[addtrip]
+11B Bayview - Bayview
+0
+574.000
+
+  Dep.: 9:42:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+582.500
+
+  Dep.: 9:52:0
+[addtrip]
+11B Bayview - Bayview
+0
+592.000
+
+  Dep.: 10:0:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+600.500
+
+  Dep.: 10:10:0
+[addtrip]
+11B Bayview - Bayview
+0
+610.000
+
+  Dep.: 10:18:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+618.500
+
+  Dep.: 10:28:0
+[addtrip]
+11B Bayview - Bayview
+0
+628.000
+
+  Dep.: 10:36:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+636.500
+
+  Dep.: 10:46:0
+[addtrip]
+11B Bayview - Bayview
+0
+646.000
+
+  Dep.: 10:54:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+654.500
+
+  Dep.: 11:4:0
+[addtrip]
+11B Bayview - Bayview
+0
+664.000
+
+  Dep.: 11:12:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+672.500
+
+  Dep.: 11:22:0
+[addtrip]
+11B Bayview - Bayview
+0
+682.000
+
+  Dep.: 11:30:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+690.500
+
+  Dep.: 11:40:0
+[addtrip]
+11B Bayview - Bayview
+0
+700.000
+
+  Dep.: 11:48:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+708.500
+
+  Dep.: 11:58:0
+[addtrip]
+11B Bayview - Bayview
+0
+718.000
+
+  Dep.: 12:6:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+726.500
+
+  Dep.: 12:16:0
+[addtrip]
+11B Bayview - Bayview
+0
+736.000
+
+  Dep.: 12:24:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+744.500
+
+  Dep.: 12:34:0
+[addtrip]
+11B Bayview - Bayview
+0
+754.000
+
+  Dep.: 12:42:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+762.500
+
+  Dep.: 12:52:0
+[addtrip]
+11B Bayview - Bayview
+0
+772.000
+
+  Dep.: 13:0:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+780.500
+
+  Dep.: 13:10:0
+[addtrip]
+11B Bayview - Bayview
+0
+790.000
+
+  Dep.: 13:18:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+798.500
+
+  Dep.: 13:28:0
+[addtrip]
+11B Bayview - Bayview
+0
+808.000
+
+  Dep.: 13:36:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+816.500
+
+  Dep.: 13:46:0
+[addtrip]
+11B Bayview - Bayview
+0
+826.000
+
+  Dep.: 13:54:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+834.500
+
+  Dep.: 14:4:0
+[addtrip]
+11B Bayview - Bayview
+0
+844.000
+
+  Dep.: 14:12:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+852.500
+
+  Dep.: 14:22:0
+[addtrip]
+11B Bayview - Bayview
+0
+862.000
+
+  Dep.: 14:30:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+870.500
+
+  Dep.: 14:40:0
+[addtrip]
+11B Bayview - Bayview
+0
+880.000
+
+  Dep.: 14:48:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+888.500
+
+  Dep.: 14:58:0
+[addtrip]
+11B Bayview - Bayview
+0
+898.000
+
+  Dep.: 15:6:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+906.500
+
+  Dep.: 15:16:0
+[addtrip]
+11B Bayview - Bayview
+0
+916.000
+
+  Dep.: 15:24:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+924.500
+
+  Dep.: 15:34:0
+[addtrip]
+11B Bayview - Bayview
+0
+934.000
+
+  Dep.: 15:42:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+942.500
+
+  Dep.: 15:52:0
+[addtrip]
+11B Bayview - Bayview
+0
+952.000
+
+  Dep.: 16:0:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+960.500
+
+  Dep.: 16:10:0
+[addtrip]
+11B Bayview - Bayview
+0
+970.000
+
+  Dep.: 16:18:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+978.500
+
+  Dep.: 16:28:0
+[addtrip]
+11B Bayview - Bayview
+0
+988.000
+
+  Dep.: 16:36:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+996.500
+
+  Dep.: 16:46:0
+[addtrip]
+11B Bayview - Bayview
+0
+1006.000
+
+  Dep.: 16:54:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1014.500
+
+  Dep.: 17:4:0
+[addtrip]
+11B Bayview - Bayview
+0
+1024.000
+
+  Dep.: 17:12:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1032.500
+
+  Dep.: 17:22:0
+[addtrip]
+11B Bayview - Bayview
+0
+1042.000
+
+  Dep.: 17:30:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1050.500
+
+  Dep.: 17:40:0
+[addtrip]
+11B Bayview - Bayview
+0
+1060.000
+
+  Dep.: 17:48:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1068.500
+
+  Dep.: 17:58:0
+[addtrip]
+11B Bayview - Bayview
+0
+1078.000
+
+  Dep.: 18:6:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1086.500
+
+  Dep.: 18:16:0
+[addtrip]
+11B Bayview - Bayview
+0
+1096.000
+
+  Dep.: 18:24:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1104.500
+
+  Dep.: 18:34:0
+[addtrip]
+11B Bayview - Bayview
+0
+1114.000
+
+  Dep.: 18:42:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1122.500
+
+  Dep.: 18:52:0
+[addtrip]
+11B Bayview - Bayview
+0
+1132.000
+
+  Dep.: 19:0:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1140.500
+
+  Dep.: 19:10:0
+[addtrip]
+11B Bayview - Bayview
+0
+1150.000
+
+  Dep.: 19:18:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1158.500
+
+  Dep.: 19:28:0
+[addtrip]
+11B Bayview - Bayview
+0
+1168.000
+
+  Dep.: 19:36:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1176.500
+
+  Dep.: 19:46:0
+[addtrip]
+11B Bayview - Bayview
+0
+1186.000
+
+  Dep.: 19:54:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1194.500
+
+  Dep.: 20:4:0
+[addtrip]
+11B Bayview - Bayview
+0
+1204.000
+
+  Dep.: 20:12:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1212.500
+
+  Dep.: 20:22:0
+[addtrip]
+11B Bayview - Bayview
+0
+1222.000
+
+  Dep.: 20:30:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1230.500
+
+  Dep.: 20:40:0
+[addtrip]
+11B Bayview - Bayview
+0
+1240.000
+
+  Dep.: 20:48:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1248.500
+
+  Dep.: 20:58:0
+[addtrip]
+11B Bayview - Bayview
+0
+1258.000
+
+  Dep.: 21:6:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1266.500
+
+  Dep.: 21:16:0
+[addtrip]
+11B Bayview - Bayview
+0
+1276.000
+
+  Dep.: 21:24:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1284.500
+
+  Dep.: 21:34:0
+[addtrip]
+11B Bayview - Bayview
+0
+1294.000
+
+  Dep.: 21:42:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1302.500
+
+  Dep.: 21:52:0
+[addtrip]
+11B Bayview - Bayview
+0
+1312.000
+
+  Dep.: 22:0:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1320.500
+
+  Dep.: 22:10:0
+[addtrip]
+11B Bayview - Bayview
+0
+1330.000
+
+  Dep.: 22:18:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1338.500
+
+  Dep.: 22:28:0
+[addtrip]
+11B Bayview - Bayview
+0
+1348.000
+
+  Dep.: 22:36:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1356.500
+
+  Dep.: 22:46:0
+[addtrip]
+11B Bayview - Bayview
+0
+1366.000
+
+  Dep.: 22:54:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1374.500
+
+  Dep.: 23:5:0
+[addtrip]
+11B Bayview - Bayview
+0
+1385.000
+
+  Dep.: 23:14:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1394.500
+
+  Dep.: 23:25:0
+[addtrip]
+11B Bayview - Bayview
+0
+1405.000
+
+  Dep.: 23:34:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1414.500
+
+  Dep.: 23:45:0
+[addtrip]
+11B Bayview - Bayview
+0
+1425.000
+
+  Dep.: 23:54:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1434.500
+
+  Dep.: 24:5:0
+[addtrip]
+11B Bayview - Bayview
+0
+1445.000
+
+  Dep.: 24:14:30
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1454.500
+
+  Dep.: 24:25:0
+[addtrip]
+11B Bayview - Bayview
+0
+1465.000
+
+------------------------------------
+
+[newtour]
+Run 4 (Temporary)
+Wilson Garage
+1023
+
+------------------------------------
+
+  Dep.: 5:44:30
+[addtrip]
+11B Bayview - Bayview
+0
+344.500
+
+  Dep.: 5:53:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+353.000
+
+  Dep.: 6:2:30
+[addtrip]
+11B Bayview - Bayview
+0
+362.500
+
+  Dep.: 6:11:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+371.000
+
+  Dep.: 6:20:30
+[addtrip]
+11B Bayview - Bayview
+0
+380.500
+
+  Dep.: 6:29:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+389.000
+
+  Dep.: 6:38:30
+[addtrip]
+11B Bayview - Bayview
+0
+398.500
+
+  Dep.: 6:47:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+407.000
+
+  Dep.: 6:56:30
+[addtrip]
+11B Bayview - Bayview
+0
+416.500
+
+  Dep.: 7:5:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+425.000
+
+  Dep.: 7:14:30
+[addtrip]
+11B Bayview - Bayview
+0
+434.500
+
+  Dep.: 7:23:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+443.000
+
+  Dep.: 7:32:30
+[addtrip]
+11B Bayview - Bayview
+0
+452.500
+
+  Dep.: 7:41:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+461.000
+
+  Dep.: 7:50:30
+[addtrip]
+11B Bayview - Bayview
+0
+470.500
+
+  Dep.: 7:59:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+479.000
+
+  Dep.: 8:8:30
+[addtrip]
+11B Bayview - Bayview
+0
+488.500
+
+  Dep.: 8:17:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+497.000
+
+  Dep.: 8:26:30
+[addtrip]
+11B Bayview - Bayview
+0
+506.500
+
+  Dep.: 8:35:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+515.000
+
+  Dep.: 8:44:30
+[addtrip]
+11B Bayview - Bayview
+0
+524.500
+
+  Dep.: 8:53:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+533.000
+
+  Dep.: 9:2:30
+[addtrip]
+11B Bayview - Bayview
+0
+542.500
+
+  Dep.: 9:11:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+551.000
+
+  Dep.: 9:20:30
+[addtrip]
+11B Bayview - Bayview
+0
+560.500
+
+  Dep.: 9:29:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+569.000
+
+  Dep.: 9:38:30
+[addtrip]
+11B Bayview - Bayview
+0
+578.500
+
+  Dep.: 9:47:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+587.000
+
+  Dep.: 9:56:30
+[addtrip]
+11B Bayview - Bayview
+0
+596.500
+
+  Dep.: 10:5:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+605.000
+
+  Dep.: 10:14:30
+[addtrip]
+11B Bayview - Bayview
+0
+614.500
+
+  Dep.: 10:23:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+623.000
+
+  Dep.: 10:32:30
+[addtrip]
+11B Bayview - Bayview
+0
+632.500
+
+  Dep.: 10:41:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+641.000
+
+  Dep.: 10:50:30
+[addtrip]
+11B Bayview - Bayview
+0
+650.500
+
+  Dep.: 10:59:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+659.000
+
+  Dep.: 11:8:30
+[addtrip]
+11B Bayview - Bayview
+0
+668.500
+
+  Dep.: 11:17:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+677.000
+
+  Dep.: 11:26:30
+[addtrip]
+11B Bayview - Bayview
+0
+686.500
+
+  Dep.: 11:35:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+695.000
+
+  Dep.: 11:44:30
+[addtrip]
+11B Bayview - Bayview
+0
+704.500
+
+  Dep.: 11:53:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+713.000
+
+  Dep.: 12:2:30
+[addtrip]
+11B Bayview - Bayview
+0
+722.500
+
+  Dep.: 12:11:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+731.000
+
+  Dep.: 12:20:30
+[addtrip]
+11B Bayview - Bayview
+0
+740.500
+
+  Dep.: 12:29:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+749.000
+
+  Dep.: 12:38:30
+[addtrip]
+11B Bayview - Bayview
+0
+758.500
+
+  Dep.: 12:47:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+767.000
+
+  Dep.: 12:56:30
+[addtrip]
+11B Bayview - Bayview
+0
+776.500
+
+  Dep.: 13:5:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+785.000
+
+  Dep.: 13:14:30
+[addtrip]
+11B Bayview - Bayview
+0
+794.500
+
+  Dep.: 13:23:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+803.000
+
+  Dep.: 13:32:30
+[addtrip]
+11B Bayview - Bayview
+0
+812.500
+
+  Dep.: 13:41:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+821.000
+
+  Dep.: 13:50:30
+[addtrip]
+11B Bayview - Bayview
+0
+830.500
+
+  Dep.: 13:59:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+839.000
+
+  Dep.: 14:8:30
+[addtrip]
+11B Bayview - Bayview
+0
+848.500
+
+  Dep.: 14:17:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+857.000
+
+  Dep.: 14:26:30
+[addtrip]
+11B Bayview - Bayview
+0
+866.500
+
+  Dep.: 14:35:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+875.000
+
+  Dep.: 14:44:30
+[addtrip]
+11B Bayview - Bayview
+0
+884.500
+
+  Dep.: 14:53:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+893.000
+
+  Dep.: 15:2:30
+[addtrip]
+11B Bayview - Bayview
+0
+902.500
+
+  Dep.: 15:11:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+911.000
+
+  Dep.: 15:20:30
+[addtrip]
+11B Bayview - Bayview
+0
+920.500
+
+  Dep.: 15:29:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+929.000
+
+  Dep.: 15:38:30
+[addtrip]
+11B Bayview - Bayview
+0
+938.500
+
+  Dep.: 15:47:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+947.000
+
+  Dep.: 15:56:30
+[addtrip]
+11B Bayview - Bayview
+0
+956.500
+
+  Dep.: 16:5:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+965.000
+
+  Dep.: 16:14:30
+[addtrip]
+11B Bayview - Bayview
+0
+974.500
+
+  Dep.: 16:23:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+983.000
+
+  Dep.: 16:32:30
+[addtrip]
+11B Bayview - Bayview
+0
+992.500
+
+  Dep.: 16:41:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1001.000
+
+  Dep.: 16:50:30
+[addtrip]
+11B Bayview - Bayview
+0
+1010.500
+
+  Dep.: 16:59:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1019.000
+
+  Dep.: 17:8:30
+[addtrip]
+11B Bayview - Bayview
+0
+1028.500
+
+  Dep.: 17:17:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1037.000
+
+  Dep.: 17:26:30
+[addtrip]
+11B Bayview - Bayview
+0
+1046.500
+
+  Dep.: 17:35:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1055.000
+
+  Dep.: 17:44:30
+[addtrip]
+11B Bayview - Bayview
+0
+1064.500
+
+  Dep.: 17:53:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1073.000
+
+  Dep.: 18:2:30
+[addtrip]
+11B Bayview - Bayview
+0
+1082.500
+
+  Dep.: 18:11:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1091.000
+
+  Dep.: 18:20:30
+[addtrip]
+11B Bayview - Bayview
+0
+1100.500
+
+  Dep.: 18:29:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1109.000
+
+  Dep.: 18:38:30
+[addtrip]
+11B Bayview - Bayview
+0
+1118.500
+
+  Dep.: 18:47:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1127.000
+
+  Dep.: 18:56:30
+[addtrip]
+11B Bayview - Bayview
+0
+1136.500
+
+  Dep.: 19:5:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1145.000
+
+  Dep.: 19:14:30
+[addtrip]
+11B Bayview - Bayview
+0
+1154.500
+
+  Dep.: 19:23:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1163.000
+
+  Dep.: 19:32:30
+[addtrip]
+11B Bayview - Bayview
+0
+1172.500
+
+  Dep.: 19:41:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1181.000
+
+  Dep.: 19:50:30
+[addtrip]
+11B Bayview - Bayview
+0
+1190.500
+
+  Dep.: 19:59:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1199.000
+
+  Dep.: 20:8:30
+[addtrip]
+11B Bayview - Bayview
+0
+1208.500
+
+  Dep.: 20:17:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1217.000
+
+  Dep.: 20:26:30
+[addtrip]
+11B Bayview - Bayview
+0
+1226.500
+
+  Dep.: 20:35:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1235.000
+
+  Dep.: 20:44:30
+[addtrip]
+11B Bayview - Bayview
+0
+1244.500
+
+  Dep.: 20:53:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1253.000
+
+  Dep.: 21:2:30
+[addtrip]
+11B Bayview - Bayview
+0
+1262.500
+
+  Dep.: 21:11:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1271.000
+
+  Dep.: 21:20:30
+[addtrip]
+11B Bayview - Bayview
+0
+1280.500
+
+  Dep.: 21:29:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1289.000
+
+  Dep.: 21:38:30
+[addtrip]
+11B Bayview - Bayview
+0
+1298.500
+
+  Dep.: 21:47:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1307.000
+
+  Dep.: 21:56:30
+[addtrip]
+11B Bayview - Bayview
+0
+1316.500
+
+  Dep.: 22:5:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1325.000
+
+  Dep.: 22:14:30
+[addtrip]
+11B Bayview - Bayview
+0
+1334.500
+
+  Dep.: 22:23:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1343.000
+
+  Dep.: 22:32:30
+[addtrip]
+11B Bayview - Bayview
+0
+1352.500
+
+  Dep.: 22:41:0
+[addtrip]
+11B Bayview - Davisville Stn
+0
+1361.000
+
+  Dep.: 22:50:30
+[addtrip]
+11B Bayview - Bayview
+0
+1370.500
+
